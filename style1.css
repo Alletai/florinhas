@@ -18,8 +18,9 @@
 h1 {
   color: white;
   font-family: "Send Flowers", cursive;
-  font-weight: 800;
-  font-style: normal;
+  font-size: large;
+  font-weight: 200;
+  font-style: italic;
 }
 
 body {
